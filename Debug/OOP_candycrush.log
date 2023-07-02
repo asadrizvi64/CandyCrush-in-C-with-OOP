@@ -1,0 +1,24 @@
+﻿  game.cpp
+C:\Users\iftik\source\repos\OOP_candycrush\util.h(294,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(58,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(58,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(59,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(59,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(60,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(60,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(211,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(211,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(212,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(212,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(213,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(213,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(215,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(215,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(321,16): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(357,6): warning C4101: 'ch': unreferenced local variable
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(374,9): warning C4101: 'new_x': unreferenced local variable
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(376,9): warning C4101: 'old_x': unreferenced local variable
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(377,9): warning C4101: 'old_y': unreferenced local variable
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(375,9): warning C4101: 'new_y': unreferenced local variable
+C:\Users\iftik\source\repos\OOP_candycrush\game.cpp(462,16): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  OOP_candycrush.vcxproj -> C:\Users\iftik\source\repos\OOP_candycrush\Debug\OOP_candycrush.exe

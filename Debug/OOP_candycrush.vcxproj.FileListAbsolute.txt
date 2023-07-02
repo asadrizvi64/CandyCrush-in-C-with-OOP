@@ -1,0 +1,2 @@
+C:\Users\iftik\source\repos\OOP_candycrush\Debug\OOP_candycrush.exe
+C:\Users\iftik\source\repos\OOP_candycrush\Debug\OOP_candycrush.pdb
